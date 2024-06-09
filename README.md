@@ -1,5 +1,6 @@
 # ama.com
 Final Examination Project Website
+Проект для Финальной Экзаменации
 
 Проект студента 1-го курса университета Astana IT University - Багит Алишер Маратович
 Группа: BDA-2302
